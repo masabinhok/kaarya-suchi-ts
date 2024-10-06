@@ -1,2 +1,2 @@
-# todo-ts
-todo teaches you everything
+# kaarya-suchi
+todo teaches you everything, but the name itself has been boring now. Learning Typescript
